@@ -1,0 +1,1 @@
+I have created my front end using react and bootstrap, And I have used the axios api to fetch the data from the mysql database and I have created a toggle button for published this will reflect in database also I will pass the state of the button to the backend using api and  update the data using sql query
